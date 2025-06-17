@@ -6,12 +6,12 @@
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #1d1717;
+    color: #29d61a;
   }
   header {
     background: #4CAF50;
-    color: white;
+    color: rgb(8, 12, 9);
     padding: 20px 0;
     text-align: center;
   }
@@ -32,7 +32,7 @@
     padding: 20px;
   }
   .card {
-    background: white;
+    background: rgb(247, 245, 245);
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     margin: 10px;
@@ -55,8 +55,8 @@
     padding: 0 10px 20px;
   }
   footer {
-    background: #333;
-    color: white;
+    background: #111010;
+    color: rgb(211, 195, 195);
     text-align: center;
     padding: 10px 0;
     position: relative;
